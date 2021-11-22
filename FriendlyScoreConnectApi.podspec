@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = 'FriendlyScoreConnectApi'
-    s.version           = '0.1.2'
+    s.version           = '0.2.0'
     s.summary           = 'FriendlyScoreConnectApi for iOS is a wrapper to build custom connectivity flows'
     s.homepage          = 'https://friendlyscore.com'
     s.swift_version     = '4.0'
